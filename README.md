@@ -1,4 +1,7 @@
 # cs-ai &mdash; Basic greetings
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/logikinc/cs-ai.svg)](https://greenkeeper.io/)
+
 A sample project built with [Init.ai](https://init.ai). This is based on the [Greetings](http://docs.init.ai/docs/tutorial-1-greetings) tutorial.
 
 Make sure to read the [Overview](https://docs.init.ai/docs) to familiarize yourself
